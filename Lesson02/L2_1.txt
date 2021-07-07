@@ -1,0 +1,5 @@
+hivortex@s11:~$ cat .my.cnf
+[client]
+user=root
+password=my8sql
+hivortex@s11:~$ 
